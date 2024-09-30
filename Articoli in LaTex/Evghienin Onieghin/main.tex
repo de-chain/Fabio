@@ -1,0 +1,41 @@
+
+\documentclass{book}
+
+\usepackage[T2A]{fontenc}    % Codifica T2A per i caratteri cirillici
+\usepackage[utf8]{inputenc}  % Codifica UTF-8
+\usepackage[russian, english]{babel} % Supporto per il russo e l'inglese
+\DeclareUnicodeCharacter{202F}{.}%dichiara il carattere 202F spazio stretto non divisibile, i puntini in O rus capitolo 2
+\usepackage[hidelinks]{hyperref}%rimuove i bordi intorno ai link
+\title{Эвгенин Онегин}
+\author{А.С. Пушкин}
+\date{}
+
+\begin{document}
+\maketitle
+
+\href{https://www.culture.ru/poems/4481/evgenii-onegin}
+\textbf{Роман в стихах}\\
+Не мысля гордый свет забавить,\\
+Вниманье дружбы возлюбя,\\
+Хотел бы я тебе представить\\
+Залог достойнее тебя,\\
+Достойнее души прекрасной,\\
+Святой исполненной мечты,\\
+Поэзии живой и ясной,\\
+Высоких дум и простоты;\\
+Но так и быть — рукой пристрастной\\
+Прими собранье пестрых глав,\\
+Полусмешных, полупечальных,\\
+Простонародных, идеальных,\\
+Небрежный плод моих забав,\\
+Бессонниц, легких вдохновений,\\
+Незрелых и увядших лет,\\
+Ума холодных наблюдений\\
+И сердца горестных замет.\\
+
+% Includi i capitoli
+\include{capitolo1}
+\include{capitolo2}
+\include{capitolo3}
+
+\end{document}

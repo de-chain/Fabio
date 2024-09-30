@@ -1,0 +1,20 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}История создание романа}{2}{section.1}%
+\contentsline {section}{\numberline {2}Герои романа}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Честь}{3}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Главные сюжеты романа}{3}{section.3}%
+\contentsline {section}{\numberline {4}Краткое содержание}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Глава 1. Сержант гвардии}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Глава 2. Вожатый}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Глава 3. Крепость}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Глава 4. Поединок}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Глава 5. Любовь}{6}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Глава 7. Приступ}{7}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}Глава 8. Незваный гость}{7}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Глава 9. Разлука}{7}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Глава 10. Осада города}{8}{subsection.4.9}%
+\contentsline {subsubsection}{\numberline {4.9.1}Глава 11. Мятежная слобода}{8}{subsubsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.10}Глава 12. Сирота}{8}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}Глава 13. Арест}{8}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}Глава 14. Суд}{8}{subsection.4.12}%
+\contentsline {section}{\numberline {5}знаменитые исторические фразы}{9}{section.5}%

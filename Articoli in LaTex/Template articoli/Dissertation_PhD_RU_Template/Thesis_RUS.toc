@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{Введение}{3}{}%
+\contentsline {chapter}{\numberline {1}name}{4}{}%
+\contentsline {chapter}{\numberline {2}name}{5}{}%
+\contentsline {chapter}{\numberline {3}name}{6}{}%
+\contentsline {chapter}{Заключение}{7}{}%
+\contentsline {chapter}{Список литературы}{8}{}%
+\contentsfinish 
