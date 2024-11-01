@@ -5,7 +5,9 @@
 \usepackage[utf8]{inputenc}  % Codifica UTF-8
 \usepackage[russian, english]{babel} % Supporto per il russo e l'inglese
 \DeclareUnicodeCharacter{202F}{.}%dichiara il carattere 202F spazio stretto non divisibile, i puntini in O rus capitolo 2
+\DeclareUnicodeCharacter{0301}{.}%dichiara il carattere 0301
 \usepackage[hidelinks]{hyperref}%rimuove i bordi intorno ai link
+\usepackage{marginnote}
 \title{Эвгенин Онегин}
 \author{А.С. Пушкин}
 \date{}
@@ -37,5 +39,7 @@
 \include{capitolo1}
 \include{capitolo2}
 \include{capitolo3}
+
+
 
 \end{document}

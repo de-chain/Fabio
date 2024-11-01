@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.18)  28 SEP 2024 06:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.18)  3 OCT 2024 12:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -278,6 +278,7 @@ Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
 )
    defining Unicode char U+202F (decimal 8239)
+   defining Unicode char U+0301 (decimal 769)
 
 (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
@@ -431,38 +432,38 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 (./main.aux (./capitolo1.aux) (./capitolo2.aux) (./capitolo3.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Info: Redefining \th on input line 13.
-Package hyperref Info: Link coloring OFF on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Info: Redefining \th on input line 14.
+Package hyperref Info: Link coloring OFF on input line 14.
  (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <12> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
+(Font)              <6> on input line 16.
 
 
 [1
@@ -470,7 +471,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 17--35
+Underfull \hbox (badness 10000) in paragraph at lines 18--36
 
  []
 
@@ -491,121 +492,121 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 21.
 )
-Overfull \hbox (3.04465pt too wide) in paragraph at lines 7--37
+Overfull \hbox (3.04465pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 хранила: Сперва Madame за ним ходила, Потом Mon-sieur ее сменил
 . Ребенок
  []
 
 
-Overfull \hbox (1.97083pt too wide) in paragraph at lines 7--37
+Overfull \hbox (1.97083pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 дитя, Учил его всему шутя, Не докучал моралью строгой, Слегка з
 а шалости
  []
 
 
-Overfull \hbox (18.42868pt too wide) in paragraph at lines 7--37
+Overfull \hbox (18.42868pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 dandy лондонский одет ^^V И наконец увидел свет. Он по-французс
 ки совершенно
  []
 
 
-Overfull \hbox (15.14244pt too wide) in paragraph at lines 7--37
+Overfull \hbox (15.14244pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Мог изъясняться и писал; Легко мазурку танцевал И кланялся непр
 инужденно;
  []
 
 
-Overfull \hbox (0.82187pt too wide) in paragraph at lines 7--37
+Overfull \hbox (0.82187pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 слезой! XI Как он умел казаться новым, Шутя невинность изумлять
 , Пугать
  []
 
 
-Overfull \hbox (4.44244pt too wide) in paragraph at lines 7--37
+Overfull \hbox (4.44244pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Невинных лет предубежденья Умом и страстью побеждать, Невольной
  ласки
  []
 
 
-Overfull \hbox (3.60007pt too wide) in paragraph at lines 7--37
+Overfull \hbox (3.60007pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 доносит, Что новый начался балет. Театра злой законодатель, Неп
 остоянный
  []
 
 
-Overfull \hbox (9.33014pt too wide) in paragraph at lines 7--37
+Overfull \hbox (9.33014pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Обшикать Федру, Клеопатру, Моину вызвать (для того, Чтоб только
  слышали
  []
 
 
-Overfull \hbox (12.29239pt too wide) in paragraph at lines 7--37
+Overfull \hbox (12.29239pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 шумит. Блистательна, полувоздушна, Смычку волшебному послушна, 
 Толпою
  []
 
 
-Overfull \hbox (5.59032pt too wide) in paragraph at lines 7--37
+Overfull \hbox (5.59032pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 изнеженных отрада, Духи в граненом хрустале; Гребенки, пилочки 
 стальные,
  []
 
 
-Overfull \hbox (7.26584pt too wide) in paragraph at lines 7--37
+Overfull \hbox (7.26584pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 чистить ногти перед ним, Красноречивым сумасбродом. Защитник во
 льности
  []
 
 
-Overfull \hbox (0.6008pt too wide) in paragraph at lines 7--37
+Overfull \hbox (0.6008pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 ножка Терпсихоры Прелестней чем-то для меня. Она, пророчествуя 
 взгляду
  []
 
 
-Overfull \hbox (1.29398pt too wide) in paragraph at lines 7--37
+Overfull \hbox (1.29398pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Нет, никогда порыв страстей Так не терзал души моей! XXXIV Мне 
 памятно
  []
 
 
-Overfull \hbox (3.00761pt too wide) in paragraph at lines 7--37
+Overfull \hbox (3.00761pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 ножку чувствую в руках; Опять кипит воображенье, Опять ее прико
 сновенье
  []
 
 
-Overfull \hbox (43.62732pt too wide) in paragraph at lines 7--37
+Overfull \hbox (43.62732pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Дианы, Воспомня прежних лет романы, Воспомня прежнюю любовь, Чу
 вствительны,
  []
 
 
-Overfull \hbox (5.09044pt too wide) in paragraph at lines 7--37
+Overfull \hbox (5.09044pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Все было тихо; лишь ночные Перекликались часовые, Да дрожек отд
 аленный
  []
 
 
-Overfull \hbox (2.07156pt too wide) in paragraph at lines 7--37
+Overfull \hbox (2.07156pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 слаще, средь ночных забав, Напев Торкватовых октав! XLIX Адриат
 ические
  []
 
 
-Overfull \hbox (7.80273pt too wide) in paragraph at lines 7--37
+Overfull \hbox (7.80273pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 зыбей, Под небом Африки моей, Вздыхать о сумрачной России, Где 
 я страдал,
  []
 
 
-Overfull \hbox (4.72015pt too wide) in paragraph at lines 7--37
+Overfull \hbox (4.72015pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 Или какой-нибудь издатель Замысловатой клеветы, Сличая здесь мо
 и черты,
  []
 
 
-Overfull \hbox (4.76645pt too wide) in paragraph at lines 7--37
+Overfull \hbox (4.76645pt too wide) in paragraph at lines 7--38
 \T2A/cmr/m/n/10 все это строго: Противоречий очень много, Но их исправить не хо
 чу. Цензуре
  []
@@ -651,143 +652,427 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--41
 
 
 
-])
-Overfull \hbox (16.8042pt too wide) in paragraph at lines 44--38
-[]\T2A/cmr/m/n/10 Он в том покое поселился, Где деревенский старожил Лет сорок 
-с ключницей
+]
+Underfull \hbox (badness 10000) in paragraph at lines 44--58
+
  []
 
 
-Overfull \hbox (16.93939pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 подавали Ему донского жеребца, Лишь только вдоль большой дороги
- Заслышат
+Underfull \hbox (badness 1342) in paragraph at lines 69--69
+\T2A/cmr/m/n/8 крестьянам работать в праздники и ограничил барщину 3 днями в не
+делю, но
  []
 
 
-Overfull \hbox (1.20956pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 Порывы девственной мечты И прелесть важной простоты. X Он пел л
-юбовь,
- []
+Underfull \hbox (badness 10000) in paragraph at lines 61--76
 
-
-Overfull \hbox (6.6723pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 делать нечего друзья. XIV Но дружбы нет и той меж нами. Все пре
-драссудки
- []
-
-
-Overfull \hbox (14.90991pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 XVI Меж ими все рождало споры И к размышлению влекло: Племен ми
-нувших
- []
-
-
-Overfull \hbox (18.83598pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 сожаленья: Блажен, кто ведал их волненья И наконец от них отста
-л; Блаженней
- []
-
-
-Overfull \hbox (6.27533pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 тот, кто их не знал, Кто охлаждал любовь ^^V разлукой, Вражду ^
-^V злословием;
- []
-
-
-Overfull \hbox (16.15146pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 любовь, печаль и радость Она готова разболтать. В любви считаяс
-ь инвалидом,
- []
-
-
-Overfull \hbox (12.10724pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 Онегин слушал с важным видом, Как, сердца исповедь любя, Поэт в
-ысказывал
- []
-
-
-Overfull \hbox (4.66461pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 труда узнал Его любви младую повесть, Обильный чувствами расска
-з, Давно
- []
-
-
-Overfull \hbox (20.26266pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 мечтанье, Одно привычное желанье, Одна привычная печаль. Ни охл
-аждающая
- []
-
-
-Overfull \hbox (2.43259pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 Друзья-соседы, их отцы. В глуши, под сению смиренной, Невинной 
-прелести
- []
-
-
-Overfull \hbox (14.03162pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 сестрой. XXIV Ее сестра звалась Татьяна... Впервые именем таким
- Страницы
- []
-
-
-Overfull \hbox (13.49579pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 Корсет, альбом, княжну Алину, Стишков чувствительных тетрадь Он
-а забыла:
- []
-
-
-Overfull \hbox (3.5249pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 стала звать Акулькой прежнюю Селину И обновила наконец На вате 
-шлафор
- []
-
-
-Overfull \hbox (2.64659pt too wide) in paragraph at lines 44--38
-\T2A/cmr/m/n/10 вежды; Но отдаленные надежды Тревожат сердце иногда: Без неприм
-етного
  []
 
 
 
 [12]
+Underfull \hbox (badness 10000) in paragraph at lines 79--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--129
+
+ []
+
+
 
 [13]
+Underfull \hbox (badness 10000) in paragraph at lines 132--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--180
+
+ []
+
+
 
 [14]
+Underfull \hbox (badness 10000) in paragraph at lines 183--197
+
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 210--210
+[]\T2A/cmr/m/n/10 за кем-чем. Наблюдать,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--214
+
+ []
+
+
 
 [15]
+Underfull \hbox (badness 10000) in paragraph at lines 217--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+
 
 [16]
+Underfull \hbox (badness 10000) in paragraph at lines 268--282
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--316
+
+ []
+
+
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 319--333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--367
+
+ []
+
+
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 370--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--418
+
+ []
+
+
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 421--435
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--469
+
+ []
+
+
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 472--486
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--520
+
+ []
+
+
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 523--537
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--571
+
+ []
+
+
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 574--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--605
+
+ []
+
+
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 608--622
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 625--639
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--656
+
+ []
+
+
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 659--673
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 676--39
+
+ []
+
+
+
+[25]
 \openout2 = `capitolo3.aux'.
 
  (./capitolo3.tex
+
+[26
+
+
+
+
+]
 Chapter 3.
-)
 
-[17
+Underfull \hbox (badness 10000) in paragraph at lines 9--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--40
+
+ []
 
 
 
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 43--58
 
-] (./main.aux (./capitolo1.aux) (./capitolo2.aux) (./capitolo3.aux))
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--92
+
+ []
+
+
+
+[28]
+Overfull \hbox (24.77338pt too wide) in paragraph at lines 95--109
+[]\T2A/cmr/m/n/10 Меж тем Онегина явленье У Лариных произвело На всех большое в
+печатленье
+ []
+
+
+Overfull \hbox (3.64635pt too wide) in paragraph at lines 112--126
+\T2A/cmr/m/n/10 воображенье, Сгорая негой и тоской, Алкало пищи роковой; Давно 
+сердечное
+ []
+
+
+Overfull \hbox (1.09848pt too wide) in paragraph at lines 129--143
+\T2A/cmr/m/n/10 речей, И взор заботливой прислуги. В уныние погружена, Гостей н
+е слушает
+ []
+
+
+Overfull \hbox (5.6947pt too wide) in paragraph at lines 146--160
+[]\T2A/cmr/m/n/10 Теперь с каким она вниманьем Читает сладостный роман, С каким
+ живым
+ []
+
+
+Overfull \hbox (11.10638pt too wide) in paragraph at lines 146--160
+\T2A/cmr/m/n/10 нам наводит сон, ^^V Все для мечтательницы нежной В единый обра
+з облеклись,
+ []
+
+
+Overfull \hbox (7.35281pt too wide) in paragraph at lines 163--742
+[]\T2A/cmr/m/n/10 Воображаясь героиной? Своих возлюбленных творцов, Кларисой, Ю
+лией,
+ []
+
+
+Overfull \hbox (4.55243pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 полноты, Вздыхает и, себе присвоя Чужой восторг, чужую грусть, 
+В забвенье
+ []
+
+
+Overfull \hbox (11.94061pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Бывало, пламенный творец Являл нам своего героя Как совершенств
+а образец.
+ []
+
+
+Overfull \hbox (32.57446pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Он одарял предмет любимый, Всегда неправедно гонимый, Душой чув
+ствительной,
+ []
+
+
+Overfull \hbox (8.85803pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Мельмот, бродяга мрачный, Иль Вечный жид, или Корсар, Или таинс
+твенный
+ []
+
+
+Overfull \hbox (5.65402pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Любви пленительные сны Да нравы нашей старины. XIV Перескажу пр
+остые
+ []
+
+
+Overfull \hbox (8.03416pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 ручейка; Несчастной ревности мученья, Разлуку, слезы примиренья
+, Поссорю
+ []
+
+
+Overfull \hbox (17.35486pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Слова тоскующей любви, Которые в минувши дни У ног любовницы пр
+екрасной
+ []
+
+
+Overfull \hbox (12.07947pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Других причудниц я видал, Самолюбиво равнодушных Для вздохов ст
+растных
+ []
+
+
+Overfull \hbox (5.4411pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 земли спасая честь, Я должен буду, без сомненья, Письмо Татьяны
+ перевесть.
+ []
+
+
+Overfull \hbox (7.5528pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 разыгранный Фрейшиц Перстами робких учениц: Письмо Татьяны к Он
+егину
+ []
+
+
+Overfull \hbox (7.71017pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 подруженьки, Разыграйтесь девицы, Разгуляйтесь, милые! Затяните
+ песенку,
+ []
+
+
+Overfull \hbox (17.16156pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Блистая взорами, Евгений Стоит подобно грозной тени, И, как огн
+ем обожжена,
+ []
+
+
+Overfull \hbox (4.21103pt too wide) in paragraph at lines 163--742
+\T2A/cmr/m/n/10 Остановилася она. Но следствия нежданной встречи Сегодня, милые
+ друзья,
+ []
+
+
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33])
+Overfull \hbox (2.13525pt too wide) in paragraph at lines 744--40
+\T2A/cmr/m/n/10 I - II П. вводит в поэтическое произведение буднучную прозаичес
+укую беседу 
+ []
+
+
+
+[34] (./main.aux (./capitolo1.aux) (./capitolo2.aux) (./capitolo3.aux))
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6E3979EE1EE04D42B196A1DA8195345B;315.
+(rerunfilecheck)             Checksum: 50278BBA46314C16AE874C364C79FD9E;227.
  ) 
 Here is how much of TeX's memory you used:
- 10069 strings out of 473578
- 157232 string characters out of 5732242
- 580061 words of memory out of 5000000
- 32832 multiletter control sequences out of 15000+600000
+ 10096 strings out of 473578
+ 157447 string characters out of 5732242
+ 580056 words of memory out of 5000000
+ 32833 multiletter control sequences out of 15000+600000
  572237 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,79p,295b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texl
-ive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2024/t
-exmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2024/texmf-dist/
+ 75i,8n,79p,1080b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texl
+ive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/t
+exmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2024/texmf-dist/
 fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2024/texmf-dist/fonts/type
 1/public/cm-super/sfrm0700.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/c
 m-super/sfrm0800.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sf
@@ -795,10 +1080,10 @@ rm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
 ><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texli
 ve/2024/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2024/te
 xmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on main.pdf (17 pages, 211773 bytes).
+Output written on main.pdf (34 pages, 284063 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 262 PDF objects out of 1000 (max. 8388607)
+ 201 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
