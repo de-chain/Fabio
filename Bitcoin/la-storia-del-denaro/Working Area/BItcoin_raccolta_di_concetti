@@ -1,0 +1,29 @@
+Bitcoin è una valuta digitale decentralizzata che opera senza autorità centrale.<br> La gestione delle transazioni e l’emissione di denaro vengono eseguite collettivamente dalla rete.
+
+Basandosi sull'idea che il denaro è qualsiasi oggetto accettato come pagamento di beni e servizi in un determinato contesto socioeconomico, Bitcoin ha tutte le proprietà desiderabili del denaro. Bitcoin è portatili, durevoli, divisibili, riconoscibili, fungibili, scarsi e difficili da contraffare.
+
+Perché Bitcoin ?
+Bitcoin offre autonomia monetaria.<br>Bitcoin affornta e risolve il problema della fiducia imposta per decreto dai sistemi economici centralizzati.
+Non che la fiducia giustificata sia una cosa negativa, ma  rende i sistemi fragili e corruttibili, crea disuguaglianze e monopolio. Attraverso l’uso di prove crittografiche, reti decentralizzate e software open source, Bitcoin diffonde la fiducia.
+
+## Privacy Bitcoin
+
+Il registro distriSebbene Bitcoin possa supportare una forte privacy , molti modi di utilizzarlo di solito non sono molto privati. Con una corretta comprensione della tecnologia, il bitcoin può infatti essere utilizzato in modo molto privato e anonimo.
+
+Gli utenti interagiscono con bitcoin tramite software che potrebbe far trapelare informazioni su di loro in vari modi danneggiando il loro anonimato.
+
+Bitcoin registra le transazioni sulla catena di blocchi visibile a tutti e crea così il danno più grave alla privacy. I bitcoin si spostano tra gli indirizzi ; gli indirizzi del mittente sono noti, gli indirizzi del destinatario sono noti e gli importi sono noti. Non è nota solo l'identità di ciascun indirizzo 
+ gli indirizzi e gli ID delle transazioni sono solo numeri casuali. Tuttavia, se uno qualsiasi degli indirizzi nel passato o nel futuro di una transazione può essere collegato a un'identità reale, potrebbe essere possibile partire da quel punto e dedurre chi potrebbe possedere tutti gli altri indirizzi. Questa identificazione di un indirizzo potrebbe derivare dall'analisi della rete, dalla sorveglianza, dalla ricerca sul Web o da una varietà di altri metodi. La pratica incoraggiata di utilizzare un nuovo indirizzo per ogni transazione ha lo scopo di rendere questo attacco più difficile. 1 metodo di privacy
+
+
+Pensa a cosa ti stai nascondendo, qual è il tuo modello di minaccia e qual è il tuo avversario. Tieni presente che esistono società di sorveglianza delle transazioni che effettuano una sorveglianza su larga scala dell’ecosistema bitcoin.
+Non riutilizzare gli indirizzi . Gli indirizzi dovrebbero essere mostrati a un'entità per ricevere denaro e non essere mai più utilizzati dopo che il denaro da loro ricevuto è stato speso.
+Cerca di rivelare meno informazioni possibili su di te durante le transazioni, ad esempio, evita i controlli AML/KYC e fai attenzione quando fornisci il tuo indirizzo postale reale.
+Utilizza un portafoglio supportato dal tuo nodo completo o dal filtraggio dei blocchi lato client , sicuramente non un portafoglio web.
+Trasmetti transazioni on-chain su Tor , se il tuo portafoglio non lo supporta, copia e incolla i dati esadecimali della transazione in un modulo di trasmissione web sul browser Tor.
+Utilizza Lightning Network il più possibile.
+Se Lightning non è disponibile, utilizza un portafoglio che implementi correttamente CoinJoin .
+Cerca di evitare di creare indirizzi di modifica, ad esempio quando finanzia un canale Lightning, spendi un intero UTXO senza alcuna modifica (supponendo che l'importo non sia troppo grande per essere sicuro).
+Se l'analisi forense digitale è un problema, utilizza una soluzione come il sistema operativo Tails 
+
+
