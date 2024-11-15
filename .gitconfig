@@ -1,0 +1,6 @@
+[core]
+autocrlf = false
+[user.mail]
+email = dechain.trade@gmail.com
+[user.name]
+name = dechain
