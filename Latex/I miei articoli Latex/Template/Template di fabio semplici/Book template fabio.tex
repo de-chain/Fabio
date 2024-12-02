@@ -1,0 +1,56 @@
+\documentclass[12pt]{book}
+
+% Lingua e pacchetti principali
+\usepackage[utf8]{inputenc}  % Codifica dei caratteri
+\usepackage[english]{babel}  % Lingua italiana (puoi cambiarla con 'english' se preferisci l'inglese)
+\usepackage{amsmath, amssymb}  % Pacchetti matematici
+\usepackage{graphicx}  % Inserimento immagini
+\usepackage{fancyhdr}  % Per intestazioni personalizzate
+\usepackage{hyperref}  % Per i collegamenti ipertestuali
+\usepackage{geometry}  % Personalizzazione dei margini
+
+% Personalizzazione dei margini
+\geometry{top=3cm,bottom=3cm,left=2.5cm,right=2.5cm}
+
+% Inizio del documento
+\begin{document}
+
+% Frontespizio (titolo, autore, data, etc.)
+\title{Il Mio Libro}
+\author{Nome Autore}
+\date{\today}
+\maketitle  % Crea il frontespizio
+
+% Sommario
+\tableofcontents
+\newpage
+
+% Capitolo 1
+\chapter{Introduzione}
+Benvenuti nel mio libro! Questo è un esempio semplice di un template in LaTeX per un libro. Qui puoi inserire il contenuto del tuo primo capitolo.
+
+% Capitolo 2
+\chapter{Secondo Capitolo}
+In questo capitolo parliamo di qualcosa di più complesso. Puoi includere anche formule matematiche come:
+
+\begin{equation}
+E = mc^2
+\end{equation}
+
+% Sezione del Capitolo
+\section{Una Sezione}
+Questa è una sezione all'interno del capitolo. Puoi aggiungere sottosezioni e paragrafi come desideri.
+
+% Capitolo 3
+\chapter{Conclusioni}
+Nel capitolo finale, puoi riassumere tutto ciò che hai trattato nel libro. Questo è solo un esempio di base.
+
+% Bibliografia
+\newpage
+\chapter*{Bibliografia}
+\addcontentsline{toc}{chapter}{Bibliografia}
+\begin{thebibliography}{9}
+\bibitem{latex} Donald E. Knuth, \textit{The TeXbook}, Addison-Wesley, 1986.
+\end{thebibliography}
+
+\end{document}

@@ -1,0 +1,91 @@
+\documentclass[12pt]{book}
+
+% Lingua e pacchetti principali
+\usepackage[utf8]{inputenc}  % Codifica dei caratteri
+\usepackage[english]{babel}  % Lingua italiana (puoi cambiarla con 'english' se preferisci l'inglese)
+%\usepackage{amsmath, amssymb}  % Pacchetti matematici
+\usepackage{graphicx}  % Inserimento immagini
+\usepackage{fancyhdr}  % Per intestazioni personalizzate
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue, citecolor=black]{hyperref}
+\usepackage{geometry}  % Personalizzazione dei margini
+
+% Personalizzazione dei margini
+\geometry{top=3cm,bottom=3cm,left=2.5cm,right=2.5cm}
+
+% Inizio del documento
+\begin{document}
+
+% Frontespizio (titolo, autore, data, etc.)
+\title{Il mio libro di trading}
+\author{Fabio Rizzi}
+\date{\today}
+\maketitle  % Crea il frontespizio
+
+% Sommario
+\tableofcontents
+
+% Parte introduttiva
+\chapter*{Introduzione}
+la semplicità nel trading è l'approccio migliore per ottenere buoni risultati.\\
+Utilizzare pochi e semplici strumenti
+% Capitolo 1
+\chapter{Capitolo 1: Il concetto di Trading}
+\section{Il trading} 
+Attività di compravendita di strumenti finanziari, nel nostro caso Criptovalute. La variazione di prezzo, il risultato di questa attività.
+
+Possiamo paragonare il trading alla battaglia tra la pressione d'acquisto dei compratori e quella di vendita dei venditori. Noi non possiamo conoscere l'esito della battaglia, possiamo solo prevederlo.
+
+Analizzando con metodo logico la battaglia, aumentiamo la nostra probabilità di prevedere correttamente l'esito.
+\section{Il grafico a candele} "fig. \ref{graficocandele}" Rappresenta visivamente l'andamento del prezzo nei diversi intervalli di tempo, noti come timeframe. Ogni candela simboleggia l'esito di una battaglia tra compratori e venditori: una candela verde indica che i compratori hanno prevalso sui venditori, mentre una candela rossa segnala la vittoria dei venditori sui compratori.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\linewidth]{Immagini/grafico-candele.png} % Nome del file immagine (senza estensione se è PDF, PNG, JPG)
+    \caption{rappresentazione di grafico a candele giapponesi.}
+    \label{graficocandele} % Etichetta per riferimento incrociato
+\end{figure}
+
+
+
+\section{Il trader} 
+Osserva l'andamento del prezzo e studia le conformazioni che le candele disegnano nel grafico. Grazie alle conformazioni che si ripetono nel tempo, il trader formula una sua strategia che migliora la sua probabilità statistica nel prevedere l'andamento del prezzo.
+
+\section{Gli strumenti di lavoro del trader}
+\begin{description}
+    \item[*] L'indice
+    \item[*] Il grafico, le candele
+    \item[*] Il book di negoziazione, il libro degli ordini
+    \item[*] Le ema
+    \item[*] La wvap
+    \item[*] La trendline
+    \item[*] I punti trigger
+    \item[*] Le conformazioni
+    \item[*] Il broker
+\end{description}
+%%%%%								CAPITOLI
+\include{Capitoli/Capitolo2}
+\input{Capitoli/Capitolo3}
+%%%%%	
+%\begin{equation}
+%E = mc^2
+%\end{equation}
+
+% Sezione del Capitolo
+%\section{Una Sezione}
+%Questa è una sezione all'interno del capitolo. Puoi aggiungere sottosezioni e paragrafi come desideri.
+
+% Capitolo 2
+\chapter{L'indice}
+Nel mondo Criptovalute Bitcoin è l'indice. Bitcoin detiene oltre il 70\% del market cup mondiale in criptovalute ed è considerato l'immacolata concezione delle criptovalute. 
+
+
+
+% Bibliografia
+\newpage
+\chapter*{Bibliografia}
+\addcontentsline{toc}{chapter}{Bibliografia}
+\begin{thebibliography}{9}
+\bibitem{latex} Donald E. Knuth, \textit{The TeXbook}, Addison-Wesley, 1986.
+\end{thebibliography}
+
+\end{document}

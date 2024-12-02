@@ -1,0 +1,62 @@
+\documentclass[12pt]{book}
+
+% Lingua e pacchetti principali
+\usepackage[utf8]{inputenc}  % Codifica dei caratteri
+\usepackage[english]{babel}  % Lingua italiana (puoi cambiarla con 'english' se preferisci l'inglese)
+%\usepackage{amsmath, amssymb}  % Pacchetti matematici
+\usepackage{graphicx}  % Inserimento immagini
+\usepackage{fancyhdr}  % Per intestazioni personalizzate
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue, citecolor=black]{hyperref}
+\usepackage{geometry}  % Personalizzazione dei margini
+
+% Personalizzazione dei margini
+\geometry{top=3cm,bottom=3cm,left=2.5cm,right=2.5cm}
+
+% Inizio del documento
+\begin{document}
+
+% Frontespizio (titolo, autore, data, etc.)
+\title{Il Mio Libro di Trading}
+\author{Fabio Rizzi}
+\date{\today}
+\maketitle  % Crea il frontespizio
+
+% Sommario
+\tableofcontents
+
+% Parte introduttiva
+\chapter*{Introduzione}
+la semplicità nel trading è l'approccio migliore per ottenere buoni risultati.\\
+Utilizzare pochi e semplici strumenti
+% Capitolo 1
+\chapter{Definizione di Trading}
+\textbf{Trading} è l'attività di compravendita di strumenti finanziari, nel nostro caso Criptovalute, con l'obbiettivo di ottenere un profitto dalla variazione di prezzo nel mercato.\\ La variazione di prezzo è il risultato della battaglia tra la pressione d'acquisto dei compratori e quella di vendita dei venditori.
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.8\linewidth]{ista.png}  
+    \caption{Esempio di immagine in \LaTeX.}
+    \label{fig:esempio}
+\end{figure}
+
+\begin{equation}
+E = mc^2
+\end{equation}
+
+% Sezione del Capitolo
+\section{Una Sezione}
+Questa è una sezione all'interno del capitolo. Puoi aggiungere sottosezioni e paragrafi come desideri.
+
+% Capitolo 3
+\chapter{Conclusioni}
+Nel capitolo finale, puoi riassumere tutto ciò che hai trattato nel libro. Questo è solo un esempio di base.
+
+% Bibliografia
+\newpage
+\chapter*{Bibliografia}
+\addcontentsline{toc}{chapter}{Bibliografia}
+\begin{thebibliography}{9}
+\bibitem{latex} Donald E. Knuth, \textit{The TeXbook}, Addison-Wesley, 1986.
+\end{thebibliography}
+
+\end{document}

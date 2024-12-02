@@ -1,0 +1,80 @@
+\documentclass[12pt]{article} % Classe di documento "article" per un report
+
+% Pacchetti necessari
+\usepackage[utf8]{inputenc}    % Codifica dei caratteri
+\usepackage[english]{babel}    % Lingua italiana
+\usepackage{amsmath}           % Per le formule matematiche
+\usepackage{graphicx}          % Per le immagini
+\usepackage{geometry}          % Per i margini personalizzati
+\usepackage{fancyhdr}          % Per intestazioni e piè di pagina personalizzati
+\usepackage{hyperref}          % Per i collegamenti ipertestuali
+
+% Impostazione dei margini
+\geometry{top=2cm, bottom=2cm, left=2.5cm, right=2.5cm}
+
+% Intestazioni personalizzate
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Rapporto di Esempio}
+\fancyhead[C]{}
+\fancyhead[R]{\thepage}
+
+\title{Report Semplice in LaTeX}
+\author{Nome Autore}
+\date{\today}
+
+\begin{document}
+
+\maketitle  % Crea la pagina del titolo
+
+\tableofcontents  % Crea il sommario
+\newpage  % Nuova pagina
+
+% Introduzione
+\section{Introduzione}
+Questo è un esempio di report scritto in LaTeX. Il LaTeX è un sistema di preparazione di documenti che permette una gestione avanzata dei contenuti e una qualità tipografica eccellente. In questo esempio, vedremo come scrivere un report con sezioni, formule matematiche, e tabelle.
+
+% Sezione 1
+\section{Sezione 1: Concetti di Base}
+In questa sezione esploreremo alcuni concetti di base. LaTeX è principalmente utilizzato per la scrittura di documenti scientifici e matematici, ma può essere utilizzato anche per altri tipi di documenti.
+
+Ecco un esempio di una formula matematica:
+
+\begin{equation}
+E = mc^2
+\end{equation}
+
+Questa è la famosa equazione di Einstein, che esprime la relazione tra energia, massa e velocità della luce.
+
+% Sezione 2
+\section{Sezione 2: Tabelle}
+Le tabelle sono facili da creare in LaTeX. Ecco un esempio di tabella:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Parametro} & \textbf{Valore} & \textbf{Unità} \\
+\hline
+Massa & 5.972 & $10^{24}$ kg \\
+Velocità della luce & 299,792,458 & m/s \\
+\hline
+\end{tabular}
+\caption{Tabella di esempio}
+\end{table}
+
+% Sezione 3
+\section{Sezione 3: Immagini}
+LaTeX permette anche di includere immagini nel documento. Ecco come inserire un'immagine:
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{esempio.jpg}  % Sostituisci 'esempio.jpg' con il percorso del tuo file immagine
+\caption{Esempio di immagine}
+\end{figure}
+
+% Conclusioni
+\section{Conclusioni}
+Questo è un esempio di un report molto semplice creato in LaTeX. È possibile personalizzare ulteriormente il documento con diversi pacchetti e comandi per aggiungere grafici, citazioni, indici, e molto altro.
+
+\end{document}
