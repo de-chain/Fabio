@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.27)  2 DEC 2024 05:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.27)  6 DEC 2024 08:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -252,7 +252,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box51
 )
-(./main.aux (./Capitoli/Capitolo2.aux))
+(./main.aux (./Capitoli/Capitolo1.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -369,69 +369,59 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [3] [4
 
-] [5] [6
-
 ]
-Chapter 1.
-<Immagini/grafico-candele.png, id=91, 439.6425pt x 262.9825pt>
+<Immagini/grafico-candele.png, id=62, 439.6425pt x 262.9825pt>
 File: Immagini/grafico-candele.png Graphic file (type png)
 <use Immagini/grafico-candele.png>
-Package pdftex.def Info: Immagini/grafico-candele.png  used on input line 43.
+Package pdftex.def Info: Immagini/grafico-candele.png  used on input line 42.
 (pdftex.def)             Requested size: 236.01561pt x 141.17778pt.
-[7 <./Immagini/grafico-candele.png>] [8]
-\openout2 = `Capitoli/Capitolo2.aux'.
+ [5 <./Immagini/grafico-candele.png>] [6]
+\openout2 = `Capitoli/Capitolo1.aux'.
 
- (./Capitoli/Capitolo2.tex
+ (./Capitoli/Capitolo1.tex
+Chapter 1.
+) [7
+
+
+] (./Capitoli/Capitolo2.tex [8
+
+
+
+]
 Chapter 2.
-) [9
-
-
-] (./Capitoli/Capitolo3.tex [10
-
-
+) (./Capitoli/Capitolo8.tex [9] [10
 
 ]
 Chapter 3.
 ) [11] [12
 
-]
-Chapter 4.
-[13] [14
+] [13] [14
 
-] [15] [16
-
-] [17] (./main.aux (./Capitoli/Capitolo2.aux))
+] [15] (./main.aux (./Capitoli/Capitolo1.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 9A73705C27FF2500E472182164AC62A7;1507
-(rerunfilecheck)             After:  B1A44C9719BDAE206B56792F5A239856;1568.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 49D0EB3A768B13295A5D4AA2D14287FA;981.
  ) 
 Here is how much of TeX's memory you used:
- 10236 strings out of 475021
- 162105 string characters out of 5768997
- 1927975 words of memory out of 5000000
- 32142 multiletter control sequences out of 15000+600000
+ 10238 strings out of 475021
+ 162246 string characters out of 5768997
+ 1926975 words of memory out of 5000000
+ 32143 multiletter control sequences out of 15000+600000
  564235 words of font info for 56 fonts, out of 8000000 for 9000
  788 hyphenation exceptions out of 8191
- 75i,6n,79p,435b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,424b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (17 pages, 79563 bytes).
+Output written on main.pdf (15 pages, 79152 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 94 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

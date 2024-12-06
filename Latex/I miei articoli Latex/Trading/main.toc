@@ -1,12 +1,8 @@
 \babel@toc {english}{}\relax 
-\contentsline {chapter}{\numberline {1}Capitolo 1: Il concetto di Trading}{7}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Il trading}{7}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Il grafico a candele}{7}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Il trader}{8}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Gli strumenti di lavoro del trader}{8}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Capitolo 2: l'indice Bitcoin}{9}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Bitcoin}{9}{section.2.1}%
-\contentsline {chapter}{\numberline {3}Capitolo 3 I grafici}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Le candele}{11}{section.3.1}%
-\contentsline {chapter}{\numberline {4}L'indice}{13}{chapter.4}%
-\contentsline {chapter}{Bibliografia}{15}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}Capitolo 1: l'indice Bitcoin}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Bitcoin}{7}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Capitolo 2 I grafici}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Le candele}{9}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Capitolo 8: le conformazioni}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Analisi del Daily}{11}{section.3.1}%
+\contentsline {chapter}{Bibliografia}{13}{chapter*.7}%
