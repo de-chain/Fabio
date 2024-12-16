@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.27)  6 DEC 2024 09:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.12.7)  14 DEC 2024 21:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**capitolo8.tex
-(./capitolo8.tex
+**./capitolo8.tex
+(capitolo8.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
+L3 programming layer <2024-01-04>
 ! Undefined control sequence.
 l.1 \chapter
             {Capitolo 8}\label{section:cap8}% Etichetta per riferimenti incr...
@@ -55,23 +55,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 \hyperref[sec:faretheewell]{Byron.}}
-                                        
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ! Undefined control sequence.
-<recently read> \hyperref 
-                          
-l.7 \hyperref[sec:faretheewell]{Byron.}}
-                                        
+l.5 \hyperref
+             [sec:fare]{Fare thee well}, and if for ever\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -79,73 +65,86 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (39.17761pt too wide) in paragraph at lines 7--8
-[]\OT1/cmr/m/it/10 Fare
- []
+! LaTeX Error: Missing \begin{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \hyperref[
+              sec:fare]{Fare thee well}, and if for ever\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-Overfull \hbox (17.12207pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 thee
- []
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
 
-
-Overfull \hbox (19.93321pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 well,
- []
-
-
-Overfull \hbox (15.84436pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 and
- []
-
-
-Overfull \hbox (6.1333pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 if
- []
-
-
-Overfull \hbox (12.39436pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 for
- []
-
-
-Overfull \hbox (18.01651pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 ever 
- []
-
-
-Overfull \hbox (17.63322pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 Still
- []
-
-
-Overfull \hbox (12.39436pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 for
- []
-
-
-Overfull \hbox (18.01651pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 ever
- []
-
-
-Overfull \hbox (16.4832pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 fare
- []
-
-
-Overfull \hbox (17.12207pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 thee
- []
-
-
-Overfull \hbox (19.93321pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 well. 
- []
-
-
-Overfull \hbox (101.84924pt too wide) in paragraph at lines 7--8
-\OT1/cmr/m/it/10 [sec:faretheewell]Byron. 
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--8
+[]
  []
 
 
@@ -166,6 +165,38 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 9--10
 [] 
  []
 
+! Undefined control sequence.
+l.11 \hyperref
+              [sec:musa]{В те дни,} когда в садах Лицея\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \hyperref[
+               sec:musa]{В те дни,} когда в садах Лицея\\
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ] in font nullfont!
 
 ! LaTeX Error: Unicode character В (U+0412)
                not set up for use with LaTeX.
@@ -174,8 +205,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В
-        те дни, когда в садах Лицея
+l.11 \hyperref[sec:musa]{В
+                            те дни,} когда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -187,8 +219,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В т
-          е дни, когда в садах Лицея
+l.11 \hyperref[sec:musa]{В т
+                              е дни,} когда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -200,8 +233,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те
-             дни, когда в садах Лицея
+l.11 \hyperref[sec:musa]{В те
+                                 дни,} когда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -213,8 +247,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те д
-               ни, когда в садах Лицея
+l.11 \hyperref[sec:musa]{В те д
+                                   ни,} когда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -226,8 +261,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дн
-                 и, когда в садах Лицея
+l.11 \hyperref[sec:musa]{В те дн
+                                     и,} когда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -239,22 +275,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни
-                   , когда в садах Лицея
+l.11 \hyperref[sec:musa]{В те дни
+                                       ,} когда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.11 В те дни,
-                     когда в садах Лицея
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no , in font nullfont!
 
@@ -265,8 +290,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, к
-                       огда в садах Лицея
+l.11 \hyperref[sec:musa]{В те дни,} к
+                                            огда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -278,8 +304,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, ко
-                         гда в садах Лицея
+l.11 \hyperref[sec:musa]{В те дни,} ко
+                                              гда в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -291,8 +318,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, ког
-                           да в садах Лицея
+l.11 \hyperref[sec:musa]{В те дни,} ког
+                                                да в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -304,8 +332,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когд
-                             а в садах Лицея
+l.11 \hyperref[sec:musa]{В те дни,} когд
+                                                  а в садах Лицея\\
+
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -317,8 +346,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда
-                                в садах Лицея
+l.11 ...rref[sec:musa]{В те дни,} когда
+                                                   в садах Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -330,8 +359,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в
-                                   садах Лицея
+l.11 ...f[sec:musa]{В те дни,} когда в
+                                                   садах Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -343,8 +372,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в с
-                                     адах Лицея
+l.11 ...ec:musa]{В те дни,} когда в с
+                                                  адах Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -356,8 +385,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в са
-                                       дах Лицея
+l.11 ...:musa]{В те дни,} когда в са
+                                                  дах Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -369,8 +398,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в сад
-                                         ах Лицея
+l.11 ...usa]{В те дни,} когда в сад
+                                                  ах Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -382,8 +411,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в сада
-                                           х Лицея
+l.11 ...a]{В те дни,} когда в сада
+                                                  х Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -395,8 +424,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в садах
-                                              Лицея
+l.11 ...{В те дни,} когда в садах
+                                                   Лицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -408,8 +437,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в садах Л
-                                                ицея
+l.11 ... те дни,} когда в садах Л
+                                                  ицея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -421,8 +450,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В те дни, когда в садах Ли
-                                                  цея
+l.11 ...�е дни,} когда в садах Ли
+                                                  цея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -434,8 +463,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 ...е дни, когда в садах Лиц
-                                                  ея
+l.11 ...� дни,} когда в садах Лиц
+                                                  ея\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -447,8 +476,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 ... дни, когда в садах Лице
-                                                  я
+l.11 ...дни,} когда в садах Лице
+                                                  я\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -460,8 +489,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 ...�ни, когда в садах Лицея
-                                                  
+l.11 ...ни,} когда в садах Лицея
+                                                  \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -474,7 +503,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я
-        безмятежно расцветал,
+        безмятжно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -487,7 +516,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я б
-          езмятежно расцветал,
+          езмятжно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -500,7 +529,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я бе
-            змятежно расцветал,
+            змятжно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -513,7 +542,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я без
-              мятежно расцветал,
+              мятжно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -526,7 +555,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я безм
-                ятежно расцветал,
+                ятжно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -539,7 +568,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я безмя
-                  тежно расцветал,
+                  тжно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -552,20 +581,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.12 Я безмят
-                    ежно расцветал,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.12 Я безмяте
-                      жно расцветал,
+                    жно расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -577,8 +593,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятеж
-                        но расцветал,
+l.12 Я безмятж
+                      но расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -590,8 +606,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежн
-                          о расцветал,
+l.12 Я безмятжн
+                        о расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -603,8 +619,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно
-                             расцветал,
+l.12 Я безмятжно
+                           расцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -616,8 +632,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно р
-                               асцветал,
+l.12 Я безмятжно р
+                             асцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -629,8 +645,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно ра
-                                 сцветал,
+l.12 Я безмятжно ра
+                               сцветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -642,8 +658,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно рас
-                                   цветал,
+l.12 Я безмятжно рас
+                                 цветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -655,8 +671,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно расц
-                                     ветал,
+l.12 Я безмятжно расц
+                                   ветал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -668,8 +684,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно расцв
-                                       етал,
+l.12 Я безмятжно расцв
+                                     етал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -681,8 +697,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно расцве
-                                         тал,
+l.12 Я безмятжно расцве
+                                       тал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -694,8 +710,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно расцвет
-                                           ал,
+l.12 Я безмятжно расцвет
+                                         ал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -707,8 +723,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно расцвета
-                                             л,
+l.12 Я безмятжно расцвета
+                                           л,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -720,8 +736,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 Я безмятежно расцветал
-                                               ,
+l.12 Я безмятжно расцветал
+                                             ,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -735,7 +751,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Ч
-       итал охотно Апулея,
+       итал охотно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -748,7 +764,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Чи
-         тал охотно Апулея,
+         тал охотно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -761,7 +777,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Чит
-           ал охотно Апулея,
+           ал охотно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -774,7 +790,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Чита
-             л охотно Апулея,
+             л охотно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -787,7 +803,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал
-                охотно Апулея,
+                охотно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -800,7 +816,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал о
-                  хотно Апулея,
+                  хотно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -813,7 +829,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал ох
-                    отно Апулея,
+                    отно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -826,7 +842,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал охо
-                      тно Апулея,
+                      тно\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -839,7 +855,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал охот
-                        но Апулея,
+                        но\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -852,7 +868,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал охотн
-                          о Апулея,
+                          о\hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -865,10 +881,28 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.13 Читал охотно
-                             Апулея,
+                            \hyperref[apuleia]{Апулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
+! Undefined control sequence.
+l.13 Читал охотно\hyperref
+                                     [apuleia]{Апулея},
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ] in font nullfont!
 
 ! LaTeX Error: Unicode character А (U+0410)
                not set up for use with LaTeX.
@@ -877,8 +911,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 Читал охотно А
-                               пулея,
+l.13 Читал охотно\hyperref[apuleia]{А
+                                                 пулея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -890,8 +924,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 Читал охотно Ап
-                                 улея,
+l.13 ...тал охотно\hyperref[apuleia]{Ап
+                                                  улея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -903,8 +937,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 Читал охотно Апу
-                                   лея,
+l.13 ...ал охотно\hyperref[apuleia]{Апу
+                                                  лея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -916,8 +950,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 Читал охотно Апул
-                                     ея,
+l.13 ...л охотно\hyperref[apuleia]{Апул
+                                                  ея},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -929,8 +963,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 Читал охотно Апуле
-                                       я,
+l.13 ... охотно\hyperref[apuleia]{Апуле
+                                                  я},
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -942,8 +976,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 Читал охотно Апулея
-                                         ,
+l.13 ...�хотно\hyperref[apuleia]{Апулея
+                                                  },
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -957,7 +991,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А
-        Цицерона не читал,
+        Цицерона не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -970,7 +1004,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Ц
-          ицерона не читал,
+          ицерона не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -983,7 +1017,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Ци
-            церона не читал,
+            церона не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -996,7 +1030,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Циц
-              ерона не читал,
+              ерона не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1009,7 +1043,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цице
-                рона не читал,
+                рона не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1022,7 +1056,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицер
-                  она не читал,
+                  она не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1035,7 +1069,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицеро
-                    на не читал,
+                    на не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1048,7 +1082,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерон
-                      а не читал,
+                      а не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1061,7 +1095,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона
-                         не читал,
+                         не читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1074,7 +1108,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона н
-                           е читал,
+                           е читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1087,7 +1121,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона не
-                              читал,
+                              читал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1100,7 +1134,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона не ч
-                                итал,
+                                итал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1113,7 +1147,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона не чи
-                                  тал,
+                                  тал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1126,7 +1160,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона не чит
-                                    ал,
+                                    ал,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1139,7 +1173,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона не чита
-                                      л,
+                                      л,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1152,7 +1186,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.14 А Цицерона не читал
-                                        ,
+                                        ,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1166,7 +1200,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В
-        те дни в таинственных долинах,
+        те дни в таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1179,7 +1213,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В т
-          е дни в таинственных долинах,
+          е дни в таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1192,7 +1226,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те
-             дни в таинственных долинах,
+             дни в таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1205,7 +1239,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те д
-               ни в таинственных долинах,
+               ни в таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1218,7 +1252,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дн
-                 и в таинственных долинах,
+                 и в таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1231,7 +1265,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни
-                    в таинственных долинах,
+                    в таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1244,7 +1278,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в
-                       таинственных долинах,
+                       таинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1257,7 +1291,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в т
-                         аинственных долинах,
+                         аинственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1270,7 +1304,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в та
-                           инственных долинах,
+                           инственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1283,7 +1317,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таи
-                             нственных долинах,
+                             нственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1296,7 +1330,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таин
-                               ственных долинах,
+                               ственных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1309,7 +1343,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинс
-                                 твенных долинах,
+                                 твенных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1322,7 +1356,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинст
-                                   венных долинах,
+                                   венных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1335,7 +1369,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинств
-                                     енных долинах,
+                                     енных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1348,7 +1382,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинстве
-                                       нных долинах,
+                                       нных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1361,7 +1395,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинствен
-                                         ных долинах,
+                                         ных долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1374,7 +1408,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинственн
-                                           ых долинах,
+                                           ых долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1387,7 +1421,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинственны
-                                             х долинах,
+                                             х долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1400,7 +1434,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинственных
-                                                долинах,
+                                                долинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1413,7 +1447,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 В те дни в таинственных д
-                                                  олинах,
+                                                  олинах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1426,7 +1460,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 ...е дни в таинственных до
-                                                  линах,
+                                                  линах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1439,7 +1473,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 ... дни в таинственных дол
-                                                  инах,
+                                                  инах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1452,7 +1486,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 ...�ни в таинственных доли
-                                                  нах,
+                                                  нах,\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
@@ -1465,94 +1499,15 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.15 ...�и в таинственных долин
-                                                  ах,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...� в таинственных долина
-                                                  х,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character х (U+0445)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...в таинственных долинах
-                                                  ,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-Missing character: There is no , in font nullfont!
-
-! LaTeX Error: Unicode character В (U+0412)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 В
-       есной, при кликах лебединых,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 Ве
-         сной, при кликах лебединых,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character с (U+0441)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 Вес
-           ной, при кликах лебединых,
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character н (U+043D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 Весн
-             ой, при кликах лебединых,
+                                                  ах,\\
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 51 strings out of 475021
- 764 string characters out of 5768997
- 1922975 words of memory out of 5000000
- 22206 multiletter control sequences out of 15000+600000
- 558415 words of font info for 37 fonts, out of 8000000 for 9000
- 788 hyphenation exceptions out of 8191
- 18i,1n,20p,127b,63s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 49 strings out of 474485
+ 883 string characters out of 5743734
+ 1924542 words of memory out of 5000000
+ 22435 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 15i,0n,20p,129b,58s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
