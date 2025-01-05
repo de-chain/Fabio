@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.29)  29 DEC 2024 21:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.12.29)  4 JAN 2025 10:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,8 +468,12 @@ LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
 
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] (.
-/Быт и культура.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 193--197
+
+ []
+
+[5] [6] [7] (./Быт и культура.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -482,19 +486,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  3615 strings out of 475615
  53663 string characters out of 5786125
- 1933975 words of memory out of 5000000
+ 1930975 words of memory out of 5000000
  25620 multiletter control sequences out of 15000+600000
  576809 words of font info for 58 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
- 56i,6n,65p,578b,221s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,6n,65p,596b,221s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/dechain/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1200.600
 pk> </home/dechain/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1728.60
 0pk> </home/dechain/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1440.6
 00pk> </home/dechain/.texlive2023/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm2074.
 600pk>
-Output written on "Быт и культура.pdf" (7 pages, 64913 bytes).
+Output written on "Быт и культура.pdf" (7 pages, 64799 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
+ 196 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)

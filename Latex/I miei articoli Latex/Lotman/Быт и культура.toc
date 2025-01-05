@@ -4,6 +4,7 @@
 \contentsline {section}{\numberline {3}Допетровское дворянство}{2}{}%
 \contentsline {section}{\numberline {4}Реформы Пётра 1}{3}{}%
 \contentsline {section}{\numberline {5}Табель о рангах}{3}{}%
-\contentsline {section}{\numberline {6}Офицер и чиновник}{4}{}%
+\contentsline {paragraph}{Статская}{4}{}%
+\contentsline {section}{\numberline {6}Офицер и чиновник}{5}{}%
 \contentsline {section}{\numberline {7}Чинопочетание}{5}{}%
-\contentsline {section}{\numberline {8}Примеры}{6}{}%
+\contentsline {section}{\numberline {8}Примеры}{7}{}%
