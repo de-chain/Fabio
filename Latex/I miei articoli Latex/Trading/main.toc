@@ -1,5 +1,4 @@
-\babel@toc {italian}{}\relax 
-\babel@toc {italian}{}\relax 
+\babel@toc {nil}{}\relax 
 \contentsline {chapter}{Introduzione}{5}{}%
 \contentsline {chapter}{\numberline {1}Le basi}{7}{}%
 \contentsline {section}{\numberline {1.1}Il trading}{7}{}%
@@ -9,7 +8,12 @@
 \contentsline {chapter}{\numberline {2}Capitolo 1: l'indice Bitcoin}{9}{}%
 \contentsline {section}{\numberline {2.1}Bitcoin}{9}{}%
 \contentsline {chapter}{\numberline {3}Capitolo 2 I grafici}{11}{}%
-\contentsline {section}{\numberline {3.1}Le candele}{11}{}%
+\contentsline {section}{\numberline {3.1}Il grafico a candele}{11}{}%
+\contentsline {subsection}{\numberline {3.1.1}L'importanza dell'aspetto psicologico del mercato}{11}{}%
+\contentsline {paragraph}{regola nr 1}{11}{}%
+\contentsline {paragraph}{regola nr 2}{11}{}%
+\contentsline {paragraph}{regola nr 3}{11}{}%
+\contentsline {section}{\numberline {3.2}le medie mobili}{11}{}%
 \contentsline {chapter}{\numberline {4}Capitolo 8: le conformazioni}{13}{}%
 \contentsline {section}{\numberline {4.1}Analisi del Daily}{13}{}%
 \contentsline {section}{\numberline {4.2}Conformazioni interessanti}{13}{}%
